@@ -5,12 +5,11 @@
     "label": "Architect at Slalom Build London",
     "image": "",
     "email": "zachguthrie705@gmail.com",
-    "phone": "770-876-7502",
-    "url": "",
+    "phone": "+44 7466 511148",
     "summary": "Zachary Guthrie is a fourth-year computer science major at Georgia Tech and a software development co-op at the Georgia Tech Research Institute. His education has given him a solid foundation of object-oriented programming experience in Java and Python, as well as knowledge of algorithms, data structures, and multiple forms of artificial intelligence. Combined with UI/UX design knowledge and understanding of realtime database functionality such as Firebase, he is prepared to work in all facets of the software development industry.  ",
     "location": {
       "countryCode": "US",
-      "address": "United Kingdom"
+      "address": "270 Shallow Springs Court. Roswell, GA, 30075"
     },
     "profiles": [
       {
@@ -24,10 +23,10 @@
     {
       "name": "Slalom Build",
       "position": "Architect",
-      "startDate": "2023-04-30",
-      "endDate": "",
+      "startDate": "2023-04-17",
+      "endDate": "2024-04-18",
       "highlights": [],
-      "summary": null,
+      "summary": "",
       "url": "https://www.linkedin.com/company/18880052",
       "location": "London, England, United Kingdom"
     },
@@ -35,9 +34,9 @@
       "name": "Slalom",
       "position": "Senior Consultant",
       "startDate": "2022-06-30",
-      "endDate": "2023-04-30",
+      "endDate": "2023-03-28",
       "highlights": [],
-      "summary": null,
+      "summary": "",
       "url": "https://www.linkedin.com/company/166000",
       "location": "Atlanta, Georgia, United States"
     },
@@ -47,7 +46,7 @@
       "startDate": "2019-01-31",
       "endDate": "2022-06-30",
       "highlights": [],
-      "summary": null,
+      "summary": "",
       "url": "https://www.linkedin.com/company/166000",
       "location": "Greater Atlanta Area"
     },
