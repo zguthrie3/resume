@@ -3,7 +3,7 @@
   "basics": {
     "name": "Zachary Guthrie",
     "label": "Architect at Slalom Build London",
-    "image": "",
+    "image": "https://media.licdn.com/dms/image/C4E03AQFvslFo8ZIgrg/profile-displayphoto-shrink_200_200/0/1526065022813?e=1717632000&v=beta&t=9eQlEkr4tnsikbP5Go18OYlcBe-vaF9AQtlDNC9j_F8",
     "email": "zachguthrie705@gmail.com",
     "phone": "+44 7466 511148",
     "summary": "Zachary Guthrie is a fourth-year computer science major at Georgia Tech and a software development co-op at the Georgia Tech Research Institute. His education has given him a solid foundation of object-oriented programming experience in Java and Python, as well as knowledge of algorithms, data structures, and multiple forms of artificial intelligence. Combined with UI/UX design knowledge and understanding of realtime database functionality such as Firebase, he is prepared to work in all facets of the software development industry.  ",
@@ -34,7 +34,7 @@
       "name": "Slalom",
       "position": "Senior Consultant",
       "startDate": "2022-06-30",
-      "endDate": "2023-03-28",
+      "endDate": "2023-04-01",
       "highlights": [],
       "summary": "",
       "url": "https://www.linkedin.com/company/166000",
@@ -254,6 +254,7 @@
   "projects": [],
   "meta": {
     "version": "v1.0.0",
-    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
+    "theme": "elegant"
   }
 }
