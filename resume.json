@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Zach Guthrie",
+    "label": "Software Engineer",
+    "email": "zachguthrie705@gmail.com",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/zachary-guthrie-517b56128/" 
+      }
+    ]
+  }
+}
