@@ -55,8 +55,10 @@
       "position": "Software Development Co-op",
       "startDate": "2017-01-31",
       "endDate": "2018-08-31",
-      "highlights": [],
-      "summary": "First semester: Created a comprehensive suite of 80+ automated Selenium WebDriver tests for a large-scale AngularJS web application.\n\nSecond semester: Mentored testing co-ops in test writing procedures, ensuring to emphasize test coverage as a priority. Created a comprehensive set of manual test procedures to analyze a new patch for a large-scale AngularJS web application.\n\nThird semester: Created multiple components for a large-scale AngularJS web application, adjusting all components of the development stack as necessary. Adjusted complicated SQL queries to fix unintended information retrieval from a database. Converted multiple factories/directives to components. Utilized previous knowledge on thorough testing practices to create and generate appropriate jQuery/Groovy tests for new features in application.",
+      "highlights": [
+        "Created a comprehensive suite of 80+ automated Selenium WebDriver tests for a large-scale AngularJS web application",
+        "Converted multiple factories/directives to components"
+      ],
       "url": "https://www.linkedin.com/company/3557",
       "location": "Atlanta, Georgia, United States"
     },
@@ -71,7 +73,6 @@
       "location": "Atlanta, Georgia, United States"
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "Georgia Institute of Technology",
@@ -110,18 +111,40 @@
         "Jenkins/GitHub Actions",
         "AWS CodeCommit/CodeBuild",
         "GCP Cloud Build",
-        "GKE/Kubernetes"
+        "GKE/Kubernetes",
+        "Vector DBs and FAISS"
       ],
       "name": "DevOps"
     },
     {
       "keywords": [
+        "JUnit/Mockito",
+        "Jest",
+        "PyTest",
+        "Selenium WebDriver",
+        "ESLint/Checkstyle"
+      ],
+      "name": "QA and Testing"
+    },
+    {
+      "keywords": [
         "AWS EC2/CloudFront",
         "AWS SQS/SNS",
+        "AWS Lambda",
+        "GCP Cloud Functions",
         "GCP Cloud Run/GKE",
         "GCP Pub/Sub"
       ],
       "name": "Cloud Technologies"
+    },
+    { 
+      "keywords": [
+        "Serverless and Event-Driven Architecture",
+        "Microservice Patterns",
+        "Monorepos",
+        "Test-Driven Development"
+      ],
+      "name": "Architecture Paradigms"
     }
   ],
   "languages": [
