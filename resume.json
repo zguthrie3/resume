@@ -32,7 +32,7 @@
         "Implemented proof-of-concept solutions utilizing burgeoning GenAI technology",
         "Established standardized GenAI practices for consultants and educated peers about pros and cons of using GenAI in practice"
       ],
-      "summary": "Managed and ran larger-scale engineering efforts ",
+      "summary": "Managed and ran medium-sized teams, serving in a mentorship role while helping to navigate business requirements and plan large-scale software projects. Helped internal initiatives to explore new horizons of technology and establish best practices when working with these tools.",
       "url": "https://www.linkedin.com/company/18880052",
       "location": "London, England, United Kingdom"
     },
@@ -48,7 +48,7 @@
         "Lead multiple small teams (2-3 SE consultants) to create complete solutions for clients in time-sensitive, shifting environemnts",
         "Educated client engineers on continuing to iterate on solutions, prioritizing understanding of the inner workings and how to troubleshoot issues that may arise"
       ],
-      "summary": "Worked as a developer on multiple client-facing projects. Team sizes ranged from individual contributor roles to small pods (3-6 developers). ",
+      "summary": "Lead small teams of experienced SE consultants to deliver impactful software solutions. Leveraged prior experience as a consultant to serve as a subject matter expert for clients looking for digital transformations. Helped to educate internal and external engineering teams on ways of managing business expectations while maintaining a high standard of quality code.",
       "url": "https://www.linkedin.com/company/166000",
       "location": "Atlanta, Georgia, United States"
     },
@@ -97,6 +97,7 @@
         "HTML",
         "Javascript/Typescript",
         "SCSS/CSS/Styled Components",
+        "Bootstrap",
         "React/Next",
         "Redux"
       ],
@@ -167,6 +168,6 @@
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
-    "theme": "macchiato"
+    "theme": "stackoverflow"
   }
 }
