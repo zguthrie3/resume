@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Zachary Guthrie",
+    "name": "Zach Guthrie",
     "label": "Software Engineer",
     "image": "https://avatars0.githubusercontent.com/u/14019641?s=400&u=460b7f798b62f4a126a394207f1fe50b61f1dc92&v=4",
     "email": "zachguthrie705@gmail.com",
@@ -24,19 +24,31 @@
       "name": "Slalom Build",
       "position": "Architect",
       "startDate": "2023-04-17",
-      "endDate": "2024-04-18",
-      "highlights": [],
-      "summary": "",
+      "endDate": "2024-05-01",
+      "highlights": [
+        "Lead a team of 5-6 global developers across PST/EST/GMT/IST time zones through creation of a high-visibility client-internal web application",
+        "Guided business leaders through an agile transformation that generated noticeable impact on how the business approached project management",
+        "Worked in conjunction with other team leads to handle rapidly shifting business requirements and generate effective architectural solutions with very little turnaround",
+        "Implemented proof-of-concept solutions utilizing burgeoning GenAI technology",
+        "Established standardized GenAI practices for consultants and educated peers about pros and cons of using GenAI in practice"
+      ],
+      "summary": "Managed and ran larger-scale engineering efforts ",
       "url": "https://www.linkedin.com/company/18880052",
       "location": "London, England, United Kingdom"
     },
     {
       "name": "Slalom",
       "position": "Senior Consultant",
-      "startDate": "2022-06-30",
-      "endDate": "2023-04-01",
-      "highlights": [],
-      "summary": "",
+      "startDate": "2022-07-01",
+      "endDate": "2023-04-30",
+      "highlights": [
+        "Engaged directly with business stakeholders to ideate on conceptual ideas for coding solutions",
+        "Architected Cloud-driven solutions that prioritized client needs without sacrificing scalability, security, and reliability",
+        "Identified inefficiencies and issues in existing client systems and proposed tangible solutions and fixes that saved clients money without requiring a complete overhaul",
+        "Lead multiple small teams (2-3 SE consultants) to create complete solutions for clients in time-sensitive, shifting environemnts",
+        "Educated client engineers on continuing to iterate on solutions, prioritizing understanding of the inner workings and how to troubleshoot issues that may arise"
+      ],
+      "summary": "Worked as a developer on multiple client-facing projects. Team sizes ranged from individual contributor roles to small pods (3-6 developers). ",
       "url": "https://www.linkedin.com/company/166000",
       "location": "Atlanta, Georgia, United States"
     },
@@ -44,9 +56,14 @@
       "name": "Slalom",
       "position": "Consultant",
       "startDate": "2019-01-31",
-      "endDate": "2022-06-30",
-      "highlights": [],
-      "summary": "",
+      "endDate": "2022-07-01",
+      "highlights": [
+        "Created multiple Cloud-based applications that could stream, transform, and manipulate mass quantities of data",
+        "Designed front-end applications with a focus on improving workflows and accessibility for client users that became critical to business practices for years to come",
+        "Spearheaded the creation of functional CI/CD patterns that were utilized on current and future client engagements",
+        "Handled successful transition of mutiple engagements to client engineering teams through knowledge transfer sessions and comprehensive documentation"
+      ],
+      "summary": "Worked as a developer on multiple client-facing projects. Team sizes ranged from individual contributor roles to small pods (3-6 developers). Delivered quality software products under very short time constraints and shifting business priorities.",
       "url": "https://www.linkedin.com/company/166000",
       "location": "Atlanta, Georgia, United States"
     },
@@ -56,19 +73,11 @@
       "startDate": "2017-01-31",
       "endDate": "2018-08-31",
       "highlights": [
-        "Created a comprehensive suite of 80+ automated Selenium WebDriver tests for a large-scale AngularJS web application",
-        "Converted multiple factories/directives to components"
+        "Created a comprehensive suite of 80+ automated Selenium WebDriver tests",
+        "Converted multiple factories/directives to components as part of modernization effort for AngularJS web application",
+        "Mentored other interns/co-ops in automated testing strategies and development"
       ],
-      "url": "https://www.linkedin.com/company/3557",
-      "location": "Atlanta, Georgia, United States"
-    },
-    {
-      "name": "Georgia Tech Research Institute",
-      "position": "Software Testing Intern",
-      "startDate": "2013-08-31",
-      "endDate": "2014-08-31",
-      "highlights": [],
-      "summary": "Created various challenges for Social Media Reconnaissance Challenge. Assured quality of challenges through test work on challenges generated by peers.",
+      "summary": "Hired initially as an SDET to help with expanding automated testing efforts across multiple applications. Expanded to a full-stack engineering position aiding with large scale conversion across AngularJS versions while still maintaining test suite responsibilities.",
       "url": "https://www.linkedin.com/company/3557",
       "location": "Atlanta, Georgia, United States"
     }
@@ -133,7 +142,8 @@
         "AWS Lambda",
         "GCP Cloud Functions",
         "GCP Cloud Run/GKE",
-        "GCP Pub/Sub"
+        "GCP Pub/Sub",
+        "GCP Cloud Composer/Dataflow"
       ],
       "name": "Cloud Technologies"
     },
@@ -157,6 +167,6 @@
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
-    "theme": "elegant"
+    "theme": "macchiato"
   }
 }
